@@ -42,7 +42,6 @@ struct Siddhanth {
 
 ## 🚀 Featured Projects
 
----
 
 ### 💳 GhostPay — Payment Gateway & Ledger Auditor
 > Node.js, PostgreSQL, Redis, Python
