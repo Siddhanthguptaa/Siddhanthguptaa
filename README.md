@@ -42,16 +42,6 @@ struct Siddhanth {
 
 ## 🚀 Featured Projects
 
-### 🧩 ChainVigil — Cross-Channel Mule Detection System
-> Python, Neo4j, PyTorch Geometric, n8n
-
-
-* 🔗 Unified 500+ accounts & 2,500+ transactions into **entity graph**
-* 🤖 Hybrid **GraphSAGE + GAT model** for mule detection
-* ⚡ **Sub-second fraud alerts** using automated pipelines
-* 🔍 Explainability via **SHAP + gradient XAI**
-* 🔐 Privacy layer using **SHA-256 anonymization**
-
 ---
 
 ### 💳 GhostPay — Payment Gateway & Ledger Auditor
@@ -72,14 +62,21 @@ struct Siddhanth {
 
 ---
 
-### 🌐 Vaultrix — Developer Portfolio Generator
-> Next.js, React, TypeScript, Tailwind CSS
+### 🧭 Path Panda — Multi-Modal Route Optimizer  
+> Node.js, FastAPI, Python, MongoDB, NetworkX  
 
-* ⚡ Build portfolios in **under 2 minutes**
-* 🔗 GitHub auto-sync (90% manual effort reduced)
-* 🧠 Dynamic dashboard + customization engine
+* 🗺️ Multi-modal routing engine to find cheapest paths across cities  
+* 🚆 Integrated IRCTC API + bus route scraping with MongoDB pipeline  
+* ⚡ Custom Dijkstra-based algorithm for transport mode switching  
 
 ---
+
+### 🤖 Talk-DF — Document-Based RAG Chatbot  
+> React, FastAPI, LangChain, FAISS, Hugging Face  
+
+* 📄 AI chatbot to query and interact with uploaded documents  
+* 🧠 Uses embeddings + FAISS for semantic search  
+* 🔍 End-to-end RAG pipeline for context-aware responses
 
 ## ⚙️ Tech Stack
 
