@@ -46,12 +46,13 @@ struct Siddhanth {
 🧩 ChainVigil — Cross-Channel Mule Detection System
 Python, Neo4j, PyTorch Geometric, n8n
 
-🔗 Unified 500+ accounts & 2,500+ transactions into entity graph
-🤖 Hybrid GraphSAGE + GAT model for mule detection
-⚡ Sub-second fraud alerts using automated pipelines
-🔍 Explainability via SHAP + gradient XAI
-🔐 Privacy layer using SHA-256 anonymization
+*🔗 Unified 500+ accounts & 2,500+ transactions into entity graph
+*🤖 Hybrid GraphSAGE + GAT model for mule detection
+*⚡ Sub-second fraud alerts using automated pipelines
+*🔍 Explainability via SHAP + gradient XAI
+*🔐 Privacy layer using SHA-256 anonymization
 
+---
 
 💳 GhostPay — Payment Gateway & Ledger Auditor
 > Node.js, PostgreSQL, Redis, Python
