@@ -1,14 +1,14 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Abhishek Kumar Singh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Siddhanth Gupta
 
 🚀 **💻 Software Engineer | ML Systems & Scalable Architecture**
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekksingh10/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavabhishek10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekkumarsingh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhanthgupta501/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhanthgupta501@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://.vercel.app/)
 
 </div>
 
@@ -16,17 +16,17 @@
 
 ### ⚡ About Me
 
-* 🎯 Building **scalable backend systems** for fintech & fraud detection
+* 🎯 Building **scalable backend systems** 
 * 🧠 Strong focus on **Graph ML, real-time pipelines, and explainable AI**
 * ⚙️ Love designing **end-to-end architectures (API → DB → ML → UI)**
-* 📍 India
+* 📍 Delhi,India
 
 ---
 
 ## 🧠 Core Expertise
 
 ```cpp
-struct Abhishek {
+struct Siddhanth {
     string focus = "Backend + AI Systems";
     vector<string> domains = {
         "Fraud Detection",
@@ -117,29 +117,22 @@ struct Abhishek {
 ## 📊 GitHub Stats
 
 
-![Streak](https://streak-stats.demolab.com?user=MetaFazer\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Siddhanthguptaa&theme=tokyonight&hide_border=true&mode=weekly)
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MetaFazer/MetaFazer/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MetaFazer/MetaFazer/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MetaFazer/MetaFazer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhanthguptaa/Siddhanthguptaa/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhanthguptaa/Siddhanthguptaa/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siddhanthguptaa/Siddhanthguptaa/output/github-snake-dark.svg">
 </picture>
 
 
 ## 📈 Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MetaFazer\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddhanthguptaa&theme=tokyo-night)
 
 ---
-
-
-
-## 🎓 Education
-
-🎓 B.Tech Computer Science — GGSIPU
-📊 CGPA: 8.04/10
 
 ---
 
@@ -147,14 +140,14 @@ struct Abhishek {
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekksingh10/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavabhishek10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekkumarsingh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhanthgupta501/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhanthgupta501@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://.vercel.app/)
 
 ---
 
 ⚡ *"I don't just build projects — I design systems."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=MetaFazer&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=style=for-the-badge&color=blueviolet)
 
 </div>
