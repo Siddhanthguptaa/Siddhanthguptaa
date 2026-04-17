@@ -43,7 +43,17 @@ struct Siddhanth {
 ## 🚀 Featured Projects
 
 
-### 💳 GhostPay — Payment Gateway & Ledger Auditor
+🧩 ChainVigil — Cross-Channel Mule Detection System
+Python, Neo4j, PyTorch Geometric, n8n
+
+🔗 Unified 500+ accounts & 2,500+ transactions into entity graph
+🤖 Hybrid GraphSAGE + GAT model for mule detection
+⚡ Sub-second fraud alerts using automated pipelines
+🔍 Explainability via SHAP + gradient XAI
+🔐 Privacy layer using SHA-256 anonymization
+
+
+💳 GhostPay — Payment Gateway & Ledger Auditor
 > Node.js, PostgreSQL, Redis, Python
 
 * 💸 Simulated **UPI, card, wallet flows**
@@ -52,7 +62,7 @@ struct Siddhanth {
 
 ---
 
-### 📈 Finvest — Investment Platform Simulator
+📈 Finvest — Investment Platform Simulator
 > Next.js, Node.js, TypeScript, MySQL, Prisma, Docker
 
 * 🐳 Fully containerized with **Docker Compose**
@@ -61,7 +71,7 @@ struct Siddhanth {
 
 ---
 
-### 🧭 Path Panda — Multi-Modal Route Optimizer  
+🧭 Path Panda — Multi-Modal Route Optimizer  
 > Node.js, FastAPI, Python, MongoDB, NetworkX  
 
 * 🗺️ Multi-modal routing engine to find cheapest paths across cities  
@@ -70,12 +80,6 @@ struct Siddhanth {
 
 ---
 
-### 🤖 Talk-DF — Document-Based RAG Chatbot  
-> React, FastAPI, LangChain, FAISS, Hugging Face  
-
-* 📄 AI chatbot to query and interact with uploaded documents  
-* 🧠 Uses embeddings + FAISS for semantic search  
-* 🔍 End-to-end RAG pipeline for context-aware responses
 
 ## ⚙️ Tech Stack
 
