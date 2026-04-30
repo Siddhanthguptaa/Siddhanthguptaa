@@ -149,6 +149,6 @@ struct Siddhanth {
 
 ⚡ *"I don't just build projects — I design systems."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Siddhanthguptaa&color=blueviolet)
 
 </div>
