@@ -40,46 +40,6 @@ struct Siddhanth {
 
 ---
 
-## 🚀 Featured Projects
-
-
-🧩 ChainVigil — Cross-Channel Mule Detection System
-> Python, Neo4j, PyTorch Geometric, n8n
-
-* 🔗 Unified 500+ accounts & 2,500+ transactions into entity graph
-* 🤖 Hybrid GraphSAGE + GAT model for mule detection
-* ⚡ Sub-second fraud alerts using automated pipelines
-* 🔍 Explainability via SHAP + gradient XAI
-* 🔐 Privacy layer using SHA-256 anonymization
-
----
-
-💳 GhostPay — Payment Gateway & Ledger Auditor
-> Node.js, PostgreSQL, Redis, Python
-
-* 💸 Simulated **UPI, card, wallet flows**
-* 🧠 Built **ghost transaction detector**
-* 📊 AI-powered **ledger reconciliation system**
-
----
-
-📈 Finvest — Investment Platform Simulator
-> Next.js, Node.js, TypeScript, MySQL, Prisma, Docker
-
-* 🐳 Fully containerized with **Docker Compose**
-* 🔐 JWT auth + role-based system
-* 🤖 Integrated **AI recommendations + chatbot**
-
----
-
-🧭 Path Panda — Multi-Modal Route Optimizer  
-> Node.js, FastAPI, Python, MongoDB, NetworkX  
-
-* 🗺️ Multi-modal routing engine to find cheapest paths across cities  
-* 🚆 Integrated IRCTC API + bus route scraping with MongoDB pipeline  
-* ⚡ Custom Dijkstra-based algorithm for transport mode switching  
-
----
 
 
 ## ⚙️ Tech Stack
