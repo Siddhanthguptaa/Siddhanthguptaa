@@ -75,29 +75,7 @@ struct Siddhanth {
 
 ---
 
-## 📊 GitHub Stats
 
-
-![Streak](https://streak-stats.demolab.com?user=Siddhanthguptaa&theme=tokyonight&hide_border=true&mode=weekly)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhanthguptaa/Siddhanthguptaa/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhanthguptaa/Siddhanthguptaa/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siddhanthguptaa/Siddhanthguptaa/output/github-snake-dark.svg">
-</picture>
-
-
-## 📈 Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddhanthguptaa&theme=tokyo-night)
-
----
-
----
-
-<div align="center">
 
 ## 📬 Connect With Me
 
