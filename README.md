@@ -4,7 +4,7 @@
 
 **AI engineer: multi-agent systems, RAG pipelines, and the infrastructure that ships them**
 
-Associate AI Engineer at Ambilio · Research presented at ACM CIKM 2026 · New Delhi
+Associate AI Engineer at Ambilio · Building [TRACE](https://github.com/Siddhanthguptaa/TRACE-API), presented at ACM CIKM 2026 · New Delhi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e1016?style=for-the-badge&logo=googlechrome&logoColor=white)](https://siddhanthgupta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhanthgupta501/)
